@@ -29,7 +29,7 @@ El tiempo libre que tengo lo invierto en aprender nuevas herramientas y tecnolog
 - **Ciclo Formatico Grado Superior, Desarrollo de Aplicaciones Web** - Aula Campus
 - **Ciclo Formativo Grado Medio, Sistemas Microinformáticos y Redes** - Enseñanzas profesionales CAJ
 
-## 🛠️ Lenguajes y Tecnologías:
+## 🛠️ Lenguajes y Tecnologías
 
 - HTML
 - CSS
@@ -44,12 +44,12 @@ El tiempo libre que tengo lo invierto en aprender nuevas herramientas y tecnolog
 - PrestaShop
 - Figma
 
-## 📫 Puedes encontrarme:
+## 📫 Puedes encontrarme
 
 - [GitHub](https://github.com/criislopeez) 🖥️
 - [Twitter](https://twitter.com/criislopeez_) 🐦
 - [LinkedIn](https://www.linkedin.com/in/cristinalopezherraiz/) 💼
 
 ---
-### ✉️ Contactame: 
+### ✉️ Contactame
 [cristinalopez103@gmail.com](mailto:cristinalopez103@gmail.com)
