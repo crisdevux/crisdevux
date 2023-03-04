@@ -24,7 +24,7 @@ El tiempo libre que tengo lo invierto en aprender nuevas herramientas y tecnolog
 
 ## 🎓 Educación
 
-- **Bootcamp Full-Stack JavaScript Developer** - Guillermo Rodas en Udefined Academy
+- **Bootcamp Full-Stack JavaScript** - Guillermo Rodas en Udefined Academy
 - **Grado de Técnicas de Interacción Digital y Multimedia** - Universitat Oberta de Catalunya
 - **Ciclo Formatico Grado Superior, Desarrollo de Aplicaciones Web** - Aula Campus
 - **Ciclo Formativo Grado Medio, Sistemas Microinformáticos y Redes** - Enseñanzas profesionales CAJ
