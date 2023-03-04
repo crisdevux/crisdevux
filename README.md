@@ -4,7 +4,7 @@
 
 ## Desarrolladora Frontend Junior, estudiando el grado de Digital y Multimedia.
 
-![@criislopeez_ twitter](https://img.shields.io/twitter/follow/criislopeez_?style=for-the-badge&color=CF9495)
+El tiempo libre que tengo lo invierto en aprender nuevas herramientas y tecnologías. Me considero una persona responsable, trabajadora, constante y autodidacta, constantemente superándome.
 
 👇🏼 Te comparto... 👇🏼
 
@@ -22,21 +22,34 @@
 
 ---
 
-### Lenguajes y Herramientas:
+## 🎓 Educación
+
+- **Bootcamp Full-Stack JavaScript Developer** - Guillermo Rodas en Udefined Academy
+- **Grado de Técnicas de Interacción Digital y Multimedia** - Universitat Oberta de Catalunya
+- **Ciclo Formatico Grado Superior, Desarrollo de Aplicaciones Web** - Aula Campus
+- **Ciclo Formativo Grado Medio, Sistemas Microinformáticos y Redes** - Enseñanzas profesionales CAJ
+
+## 🛠️ Lenguajes y Tecnologías:
 
 - HTML
 - CSS
-- Bootstrap
 - SASS
+- Bootstrap
 - JavaScript
 - Node.js
+- Visual Studio Code
 - Terminal
-- Git
-- GitHub
+- Git y GitHub
+- WordPress
+- PrestaShop
 - Figma
 
-### 📫 Puedes encontrarme:
+## 📫 Puedes encontrarme:
 
+- [GitHub](https://github.com/criislopeez) 🖥️
 - [Twitter](https://twitter.com/criislopeez_) 🐦
-- [Instagram](https://instagram.com/criislopeez_) 📸
 - [LinkedIn](https://www.linkedin.com/in/cristinalopezherraiz/) 💼
+
+---
+### ✉️ Contactame: 
+[cristinalopez103@gmail.com](mailto:cristinalopez103@gmail.com)
