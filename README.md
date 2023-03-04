@@ -1,8 +1,8 @@
-# Hola 👋🏼, Soy Cristina López
+# Hola 👋🏼, soy Cristina López
 
 ---
 
-## Soy una Desarrolladora Frontend Junior, estudiando el grado de Digital y Multimedia.
+## Desarrolladora Frontend Junior, estudiando el grado de Digital y Multimedia.
 
 ![@criislopeez_ twitter](https://img.shields.io/twitter/follow/criislopeez_?style=for-the-badge&color=CF9495)
 
