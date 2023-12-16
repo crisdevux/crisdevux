@@ -2,7 +2,7 @@
 
 ---
 
-## Desarrolladora Frontend Junior, estudiando el grado de Digital y Multimedia.
+## Desarrolladora Frontend Junior, estudiando el grado de Interacción Digital y Multimedia.
 
 El tiempo libre que tengo lo invierto en aprender nuevas herramientas y tecnologías. Me considero una persona responsable, trabajadora, constante y autodidacta.
 
