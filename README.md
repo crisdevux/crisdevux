@@ -4,7 +4,7 @@
 
 ## Desarrolladora Frontend Junior, estudiando el grado de Interacción Digital y Multimedia.
 
-Apasionada de la programación, el diseño y la fotografía, me especializo en combinar el Desarrollo Front End con la Experiencia de Usuario(UX) para crear soluciones digitales innovadoras y altamente efectivas que ayuden a las personas a transformar la apariencia visual de sus negocios de manera significativa. 
+Apasionada de la programación, el diseño y la fotografía, me especializo en combinar el Desarrollo Front End con la Experiencia de Usuario (UX) para crear soluciones digitales innovadoras y altamente efectivas que ayuden a las personas a transformar la apariencia visual de sus negocios de manera significativa. 
 
 El tiempo libre que tengo lo invierto en aprender nuevas herramientas y tecnologías. Me considero una persona responsable, trabajadora, constante y autodidacta.
 
