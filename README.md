@@ -46,4 +46,4 @@ El tiempo libre que tengo lo invierto en aprender nuevas herramientas y tecnolog
 
 ---
 ### ✉️ Contactame
-[cristinalopez103@gmail.com](mailto:crisdevux@gmail.com)
+[crisdevux@gmail.com](mailto:crisdevux@gmail.com)
