@@ -8,7 +8,7 @@ El tiempo libre que tengo lo invierto en aprender nuevas herramientas y tecnolog
 
 👇🏼 Te comparto... 👇🏼
 
-🖥 [Comunidad IT](https://discord.gg/5W4BaksSBY) dónde nos apoyamos, ayudamos y compartimos contenido interesante.
+🖥 [Comunidad IT](https://t.me/digitalshakers) dónde nos apoyamos, ayudamos y compartimos contenido interesante.
 
 📚 Recomendaciones de [libros](https://drive.google.com/drive/folders/1HBsKKzQIl97g-DNexG0iRaL_ayxbR7bp?usp=sharing) dónde hay buen contenido para aprender.
 
